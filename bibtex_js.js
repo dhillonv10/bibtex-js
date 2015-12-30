@@ -1,3 +1,7 @@
+// Original work by Henrik Muehe (c) 2010
+//
+// Small modifications and port by Vikram Dhillon
+
 // Issues:
 //  no comment handling within strings
 //  no string concatenation
