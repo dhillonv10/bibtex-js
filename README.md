@@ -7,6 +7,11 @@ Import jquery:
 
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 
+Import the parser:
+
+    <script type="text/javascript" src="https://raw.githubusercontent.com/dhillonv10/bibtex-js/master/bibtex_js.js"></script>
+    
+    
 The bibtex file goes within a textarea tag as follows: 
 
     <textarea id="bibtex_input" style="display:none;">
